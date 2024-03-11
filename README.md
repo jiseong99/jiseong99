@@ -2,9 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
 
-  **안녕하세요. **
-
-  새로운 기술과 다양한 언어를 공부하는 것을 좋아합니다.
+👋 Hello there! I'm Han Jiseong, aspiring to become a data scientist with a fervent passion for all things related to data and analytics.
   
 <br/>
 <br/>
